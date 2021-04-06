@@ -62,10 +62,11 @@ border-radius: 50px;}
      
      display: flex;
       flex-direction: column; 
-     width: 33%;
-      justify-content: space-between; 
+     /* width: 33%; */
+      /* justify-content: space-between;  */
      padding: 10px;
-     padding-left: 20px;
+     /* padding-left: 20px; */
+     align-items: center;
 }
 
 .name{
